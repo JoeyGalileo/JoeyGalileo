@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoeyGalileo
+- 👀 I’m interested in web development and Arabic.
+- 🌱 I’m currently learning HTML.
+- 💞️ I’m looking to collaborate on bs.
+- 📫 How to reach me ...
